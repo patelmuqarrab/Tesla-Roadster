@@ -4,6 +4,7 @@
 This project is an HTML and CSS clone of the Tesla Roadster webpage. It replicates the styling and layout of the Tesla Roadster webpage using HTML for structuring the content and CSS for styling. The clone covers the main sections of the original webpage, including the header, features, video, interior, glass roof, specifications, and footer.
 
 *Project Structure
+
 *index.html: The main HTML file that represents the structure of the webpage.
 *style.css: The CSS file containing the styles for the webpage, including fonts, colors, layout, and animations.
 
